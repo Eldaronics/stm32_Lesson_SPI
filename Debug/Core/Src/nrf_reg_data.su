@@ -1,0 +1,9 @@
+nrf_reg_data.c:124:9:getChannel	0	static
+nrf_reg_data.c:129:9:registerParse	8	static
+nrf_reg_data.c:28:9:getStatus	8	static
+nrf_reg_data.c:45:9:getConfig	8	static
+nrf_reg_data.c:62:9:getSetup	8	static
+nrf_reg_data.c:91:9:getSetup_RETR	24	static
+nrf_reg_data.c:109:9:getFIFO_Status	8	static
+nrf_reg_data.c:13:9:printDetails	8	static
+nrf_reg_data.c:138:9:readInTurn	48	static
